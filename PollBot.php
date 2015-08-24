@@ -358,7 +358,7 @@ class PollBotChat extends TelegramBotChat {
         $text = "☝️{$name} moudou o seu voto para '{$option}'.";
       }
     }
-    $text .= "\n/results - mostra os resultados\n/votación - repite a pregunta";
+    $text .= "\n/results - mostra os resultados\n/poll - repite a pregunta";
 
     $this->apiSendMessage($text, $message_params);
   }
