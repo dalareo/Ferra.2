@@ -1,0 +1,8 @@
+
+{
+  "require": {
+    "php": "5.5.*", 
+    "ext-mbstring": "*",
+    "predis/predis": "1.0.1"
+  }
+}
