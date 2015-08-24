@@ -1,4 +1,4 @@
-Este bot ú un programa escrito en PHP que permite crear votacións nos grupos de Telegram. O bot usa a bot API:<br/>
+Este bot é un programa escrito en PHP que permite crear votacións nos grupos de Telegram. O bot usa a bot API:<br/>
 [https://core.telegram.org/bots/API](https://core.telegram.org/bots/API)
 
 Pode usar long-polling ([poll-bot-worker.php](https://github.com/kolar/telegram-poll-bot/blob/master/poll-bot-worker.php)) ou webhooks ([poll-bot-webhook.php](https://github.com/kolar/telegram-poll-bot/blob/master/poll-bot-webhook.php)) para recibir as actualizacións do cliente.
